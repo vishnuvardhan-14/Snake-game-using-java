@@ -171,7 +171,7 @@ By building this project, you will learn:
 
 ## Gameplay Video
 
-[▶ Watch Gameplay Video](snake_game.mp4)
+[▶ Watch Gameplay Video](snake_game_compressed.mp4)
 
 ---
 
